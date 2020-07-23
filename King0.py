@@ -1640,7 +1640,7 @@ def pilih_mafia():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mXP-TRICKER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:XP-TRICKER
+	print "  \033[1;91m«---•◈•---Developed By love-Gamer--•◈•---»" #Dev:XP-TRICKER
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 Attack.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
@@ -1677,10 +1677,10 @@ _____¶¶¶¶¶¶¶¶¶________¶¶¶¶¶¶__________¶¶¶¶¶_______
 Don't Worry Your Error ID Will Be Open After 7 Days 
 
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;94m .....XP-TRICKER....... \033[1;97m :
+: \033[1;94m .....XP-GAMER....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 Facebook
-              \033[1;94mRehmat Ali"""
+              \033[1;94mGamer king"""
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -1711,7 +1711,7 @@ def pilih_test():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;97m[•◈•] \033[1;94mEnter ID\033[1;97m: \033[1;97m")
-		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;94mXP-TRICKER\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;94mXP-GAMER\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -1860,7 +1860,7 @@ def pilih_test():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mXP-TRICKER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:XP-TRICKER
+	print "  \033[1;91m«---•◈•---Developed By GAMERS--•◈•---»" #Dev:XP-TRICKER
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 Cloning.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
@@ -1899,7 +1899,7 @@ Don't Worry Your Error ID Will Be Open After 7 Days
 : \033[1;94m .....XP-TRICKER....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 Facebook
-              \033[1;94m Rehmat Ali"""
+              \033[1;94m GAMER KING"""
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -1930,7 +1930,7 @@ def pilih_super():
 		os.system('clear')
 		print logo
 		uty = raw_input("\033[1;97m[•◈•] \033[1;94mEnter ID\033[1;97m: \033[1;97m")
-		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;94mXP-TRICKER\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;94mGAMER-KING\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 		try:
 			kk = requests.get("https://graph.facebook.com/"+uty+"?access_token="+toket)
 			hh = json.loads(kk.text)
@@ -2077,7 +2077,7 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mXP-TRICKER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»"#Dev:XP-TRICKER
+	print "  \033[1;91m«---•◈•---Developed By GAMER-KING--•◈•---»"#Dev:XP-TRICKER
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 Cloning.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
@@ -2108,10 +2108,10 @@ def pilih_super():
 Don't Worry Your Error ID Will Be Open After 7 Days 
 
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;94m .....XP-TRICKER....... \033[1;97m :
+: \033[1;94m .....GAME WORLD....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 Facebook
-              \033[1;94m Rehmat Ali"""
+              \033[1;94m Gamer King"""
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -2330,7 +2330,7 @@ def pilih_phone():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;97m[•◈•] \033[1;94mEnter ID\033[1;97m: \033[1;97m")
-		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;94mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;94mGamerking\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -2479,7 +2479,7 @@ def pilih_phone():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mXP-TRICKER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:love_hacker
+	print "  \033[1;91m«---•◈•---Developed By GAMER-KING--•◈•---»" #Dev:love_hacker
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 Cloning.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
@@ -2510,7 +2510,7 @@ def pilih_phone():
 : \033[1;94m .....XP-TRICKER....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 Facebook
-              \033[1;94m Rehmat Ali"""
+              \033[1;94m GAMER KING"""
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -2690,7 +2690,7 @@ def pilih_mail():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mXP-TRICKER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:XP-TRICKER
+	print "  \033[1;91m«---•◈•---Developed By GAMER KING--•◈•---»" #Dev:XP-TRICKER
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 Cloning.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
@@ -2715,7 +2715,7 @@ Don't Worry Your Error ID Will Be Open After 7 Days
 : \033[1;94m .....XP-TRICKER....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                Facebook
-              \033[1;94m Rehmat Ali"""
+              \033[1;94m GAMER KING"""
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -2774,7 +2774,7 @@ def pilih_isi():
 	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
 	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m          Start Cloning Black Mafia')
+        jalan(' \033[1;95m          Start Cloning GAMER KING')
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
 	
 			
@@ -2895,7 +2895,7 @@ def pilih_isi():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mXP-TRICKER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:XP-TRICKER
+	print "  \033[1;91m«---•◈•---Developed By GAMER-KING--•◈•---»" #Dev:XP-TRICKER
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 Cloning.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
@@ -2915,7 +2915,7 @@ Don't Worry Your Error ID Will Be Open After 7 Days
 : \033[1;94m .....XP-TRICKER....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 Facebook
-              \033[1;94m Rehmat Ali"""
+              \033[1;94m GAMER KING"""
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -3116,7 +3116,7 @@ def pilih_army():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mXP-TRICKER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:XP-TRICKER
+	print "  \033[1;91m«---•◈•---Developed By GAMER-KING--•◈•---»" #Dev:XP-TRICKER
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 Cloning.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
@@ -3134,7 +3134,7 @@ Don't Worry Your Error ID Will Be Open After 7 Days
 : \033[1;94m .....XP-TRICKER....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 Facebook
-              \033[1;94m Rehmat Ali"""
+              \033[1;94m GAMER KING"""
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -4279,10 +4279,10 @@ def action():
  Don't Worry Your Error cp ID Will Be Open After 7 Days 
 
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....Tech Aahil...... \033[1;95m :
+: \033[1;91m ....GAMER KING...... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 Facebook
-              \033[1;91m Aahil"""
+              \033[1;91m Gamer"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	login()	
