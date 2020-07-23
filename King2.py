@@ -4,8 +4,8 @@
         
         #############################################
         #                                           #
-        #    Facebook BruteForce, by Rana Aahil     #
-        #    Facebook Contact:       Aahil          #
+        #    Facebook BruteForce, by Gamer king     #
+        #    Facebook Contact:       gamer          #
         #                                           #
         #############################################
 
