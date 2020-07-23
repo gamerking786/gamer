@@ -166,7 +166,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 
-\033[1;97m███████╗██╗██████╗░███████╗ Aahil Update 9.2
+\033[1;97m███████╗██╗██████╗░███████╗ Gamer Update 9.2
 \033[1;97m██╔════╝██║██╔══██╗██╔════╝
 \033[1;97m█████╗░░██║██████╔╝█████╗░░
 \033[1;97m██╔══╝░░██║██╔══██╗██╔══╝░░
@@ -175,21 +175,21 @@ print  """
 
 
 
-\033[1;95m«-----------------\033[1;91mTech Aahil\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mTech Gamer\033[1;95m-----------------»"""
 
 
 jalan("\033[1;92m▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌ ")
                                                                                                                                                                                                                                                   
 jalan("\033[1;97m ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇")
-jalan("\033[1;97m▇▇\033[1;97m        WellCome to Tech Aahil     \033[1;97m▇▇")
+jalan("\033[1;97m▇▇\033[1;97m        WellCome to Tech Gamer     \033[1;97m▇▇")
 jalan("\033[1;97m▇▇\033[1;97m           👇Tool Using Tips👇        \033[1;97m▇▇")
 jalan("\033[1;97m▇▇\033[1;97m          Tool Update EveryDay        \033[1;97m▇▇")
 jalan("\033[1;97m▇▇\033[1;97m       Termux Data Clear EveryDay     \033[1;97m▇▇")
-jalan("\033[1;97m▇▇\033[1;97m         Facebook Id -- Aahil         \033[1;97m▇▇")
+jalan("\033[1;97m▇▇\033[1;97m         Facebook Id -- King          \033[1;97m▇▇")
 jalan("\033[1;97m ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇")
 print "\033[1;95m«-----------------\033[1;91mTech Aahil\033[1;95m-----------------»"
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "gamer"
+CorrectPassword = "king"
 
 loop = 'true'
 while (loop == 'true'):
@@ -976,7 +976,7 @@ def pilih_crack():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mXP-TRICKER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" ##Dev:XP-TRICKER
+	print "  \033[1;91m«---•◈•---Developed By Gamer-king----•◈•---»" ##Dev:XP-TRICKER
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (Back)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 Cloning.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;92m"+str(len(oks))+"\033[1;95m/\033[1;91m"+str(len(cekpoint))
@@ -1023,10 +1023,10 @@ _'▀█║────────────▄▄─────────
  Don't Worry Your Error ID Will Be Open After 7 Days 
 
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....XP-TRICKER....... \033[1;95m :
+: \033[1;91m ....GAME-WORLD....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 Facebook
-              \033[1;91m Rehmat Ali"""
+              \033[1;91m Gamer king"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	crack()
@@ -1206,8 +1206,8 @@ def pilih_hack():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mXP-TRICKER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:XP-TRICKER
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mGAME-WORLD\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "  \033[1;91m«---•◈•---Developed By Gamer-king--•◈•---»" 
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 Cloning.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
@@ -1246,10 +1246,10 @@ def pilih_hack():
 Don't Worry Your Error ID Will Be Open After 7 Days 
 
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....XP-TRICKER....... \033[1;95m :
+: \033[1;91m ....GAME-WORLD....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 Facebook
-              \033[1;91m Rehmat Ali"""
+              \033[1;91m GAMER KING"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	crack()
@@ -1280,7 +1280,7 @@ def pilih_black():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;95m[•◈•] \033[1;91mEnter ID\033[1;95m: \033[1;95m")
-		print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mXP-TRICKER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+		print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mGAME-WORLD\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -1429,8 +1429,8 @@ def pilih_black():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mXP-TRICKER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:XP-TRICKER
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[91mXPGA\033[1;95m•◈•▬ ▬ ▬91mXPGAMER-KING▬•◈•"
+	print "  \033[1;91m«---•◈•---Developed By GAME-WORLD--•◈•---»" 
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;95mNext Type (python2 Cloning.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
@@ -1457,10 +1457,10 @@ def pilih_black():
  Don't Worry Your Error ID Will Be Open After 7 Days 
 
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ...XP-TRICKER....... \033[1;95m :
+: \033[1;91m ...GAMER-KING....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 Facebook
-              \033[1;91m Rehmat Ali"""
+              \033[1;91m GAME-WORLD"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	crack()
@@ -1491,7 +1491,7 @@ def pilih_mafia():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;97m[•◈•] \033[1;94mEnter ID\033[1;97m: \033[1;97m")
-		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;94mXP-TRICKER\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[194mGAMER-KING\033[1;97m•◈•▬ ▬ ▬ ▬•◈•"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
